@@ -1,0 +1,10 @@
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\bin\Debug\19521317Thread.exe.config
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\bin\Debug\19521317Thread.exe
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\bin\Debug\19521317Thread.pdb
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\19521317Thread.csprojAssemblyReference.cache
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\_19521317Thread.Form1.resources
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\_19521317Thread.Properties.Resources.resources
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\19521317Thread.csproj.GenerateResource.cache
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\19521317Thread.csproj.CoreCompileInputs.cache
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\19521317Thread.exe
+F:\UIT_HK2\LapTrinhMangCanBan\BTVeNha\19521317Thread\19521317Thread\obj\Debug\19521317Thread.pdb
